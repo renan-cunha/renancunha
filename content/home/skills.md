@@ -33,8 +33,8 @@ subtitle = ""
   description = "Numpy, Pandas, Matplotlib"  
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = "brain"
+  icon_pack = "fas"
   name = "Deep Learning"
   description = "Feed-Forward and Recurrent Neural Networks, Keras"
 
