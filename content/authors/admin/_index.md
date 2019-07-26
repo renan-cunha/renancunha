@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student of computer ccience at the Universidade
+I am an undergraduate student of computer science at the Universidade
 Federal do Pará. Since February-2018, I work in LabVIS-FalaBrasil
 with deep learning applied to speech synthesis. My main interests are artificial intelligence,
 machine learning, natural language processing and software 
