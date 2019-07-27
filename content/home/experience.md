@@ -24,6 +24,8 @@ date_format = "Jan 2006"
   location = "Belém. Brazil"
   date_start = "2018-03-01"
   date_end = ""
-  description = """Doing research with Deep Learning algorithms to perform Utterance Copy in Formant-based Speech Synthesizers. This work is specially important for linguistics to easily manipulate an audio. """
+  description = """Doing research with Deep Learning algorithms to perform 
+  Utterance Copy in Formant-based Speech Synthesizers. This work is specially 
+  important for linguistics to easily manipulate an audio. """
 
 +++
