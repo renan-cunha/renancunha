@@ -1,0 +1,13 @@
+.post-content p {
+    text-align: justify;
+}
+
+#main .post-content {
+  text-align: justify;
+}
+#home .post-content {
+  text-align: justify;
+}
+#index .post-content {
+  text-align: justify;
+}
