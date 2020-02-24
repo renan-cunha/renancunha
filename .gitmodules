@@ -1,3 +1,7 @@
 [submodule "themes/strange-case"]
 	path = themes/strange-case
 	url = git@github.com:renan-cunha/strange-case.git
+[submodule "public"]
+	path = public
+	url = https://github.com/renan-cunha/renan-cunha.github.io.git
+	branch = master
