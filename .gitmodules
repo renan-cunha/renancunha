@@ -3,5 +3,5 @@
 	url = git@github.com:renan-cunha/strange-case.git
 [submodule "public"]
 	path = public
-	url = git@github.com:renan-cunha/renan-cunha.github.io.git
+	url = https://github.com/renan-cunha/renan-cunha.github.io.git
 	branch = master
