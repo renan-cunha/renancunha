@@ -49,3 +49,8 @@ disease X (the disease is the same to all patients).
 ## References
 
 Slivkins, Aleksandrs. “Introduction to Multi-Armed Bandits.” ArXiv:1904.07272 [Cs, Stat], Sept. 2019. arXiv.org, http://arxiv.org/abs/1904.07272.
+
+###
+
+Next Article: [**_Brainstorming Benchmarks for Contextual
+Bandits_**](/posts/benchmark/)
