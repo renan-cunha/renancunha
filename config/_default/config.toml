@@ -5,7 +5,7 @@ copyright = "Your Copyright"
 canonifyurls = true
 paginate = 5
 customCSS = ["/home/renan/git/renancunha/static/style.css"]
-googleAnalytics = ""
+googleAnalytics = "UA-159089871-1"
 math = true
 theme = "strange-case"
 
