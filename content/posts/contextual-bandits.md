@@ -3,7 +3,7 @@ title = "A very short Intro to Contextual Bandits"
 description = ""
 date = "2020-02-24"
 categories = [
-    "IA",
+    "AI",
         "Reinforcement Learning",
 "Contextual Bandits"
         
