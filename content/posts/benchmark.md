@@ -11,14 +11,15 @@ algorithms can be reliably tested, compared and improved.
 
 ## Prerequisites
 
-* [**_Contextual Bandits_**](/posts/contextual-bandits/)
+* [**_A Very Short Intro to Contextual Bandits_**](/posts/contextual-bandits/)
 
 ## Simplest benchmark
 
-As [**_many_**](https://twitter.com/pcastr/status/1226661835971145731) 
+[**_Many_**](https://twitter.com/pcastr/status/1226661835971145731) 
 [**_people_**](https://twitter.com/karpathy/status/1013244313327681536) in the 
-AI community [**_advice_**](https://rockt.github.io/2018/08/29/msc-advice), a toy 
-example with low complexity provides better and faster 
+AI community [**_recommend_**](https://rockt.github.io/2018/08/29/msc-advice) 
+the use of toy problems, these low complexity examples 
+provide better and faster 
 [**_debugging cycles_**](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html),
 a good property of early-stage research and experimentation. So now, let's try to imagine the simplest benchmark for the contextual bandits
 problem. First, let's
@@ -138,4 +139,5 @@ and deal with corner cases.
 * [1] Cortes, David. “Adapting Multi-Armed Bandits Policies to Contextual Bandits Scenarios.” ArXiv:1811.04383 [Cs, Stat], Nov. 2019. arXiv.org, http://arxiv.org/abs/1811.04383. 
 * [2] Bietti, Alberto, et al. “A Contextual Bandit Bake-Off.” ArXiv:1802.04064 [Cs, Stat], Jan. 2020. arXiv.org, http://arxiv.org/abs/1802.04064.
 
+Next Article: [**_Solving Contextual Bandits with Greediness_**](/posts/greedy/)
 Previous Article: [**_A Very Short Intro to Contextual Bandits_**](/posts/contextual-bandits/)

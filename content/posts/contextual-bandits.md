@@ -1,5 +1,5 @@
 +++
-title = "A very short Intro to Contextual Bandits"
+title = "A Very Short Intro to Contextual Bandits"
 description = ""
 date = "2020-02-24"
 categories = [
