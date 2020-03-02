@@ -26,9 +26,9 @@ The diagram below illustrates the problem:
 
 Explaining the steps:
 
-* The environment displays a context *x*
-* The agent chooses an action *k* based on the context observed
-* The environment returns a reward based on the most recent context and action
+* The environment displays a context *x*.
+* The agent chooses an action *k* based on the observed context.
+* The environment returns a reward based on the most recent context and action.
 
 This process continues without a determined time-limit.
 
