@@ -27,7 +27,7 @@ use binary everywhere.
 Second, let's make the environment deterministic (an action *k* with context *x* 
 always returns the same reward *r*). Third and last, let's make
 the reward function *f(x, k*) as simple as possible. Remember that this reward
-function is calculated given the context observed and the action chosen.
+function is calculated given the observed context and the chosen action.
 
 So, this is what I came about:
 
@@ -49,7 +49,7 @@ and choose the $1^{st}$ action otherwise, easy.
 
 ## How to complicate
 
-Now, let's gradually try to add complexity to this problem.
+Now, let's try to gradually add complexity to this problem.
 
 ### Stochastic rewards
 
@@ -95,12 +95,12 @@ else
 ```
 
 Note that we have to change the first ```if``` case of our reward function to
-deal with the continuous feature, instead of testing equality, we test if the
+deal with the continuous feature. Instead of testing equality, we test if the
 context is greater than a threshold, in this case, 0.5. 
 
 ### Other ways
 
-There are of course other ways to increase the complexity of the problem,
+There are other ways to increase the complexity of the problem and
 I will list some below.
 
 ### Datasets
@@ -124,8 +124,7 @@ and deal with corner cases.
 
 * Standard multi-armed bandits scenario: the context doesn't influence the 
   reward function.
-* Imbalanced Dataset: There is an action (or subsect of actions) that are the
-  better more often.
+* Imbalanced Dataset: There is an action that is better more often.
 * Type of reward function function instead of just ```context > 0.5```: 
     * linear function
     * non-linear function (neural network)

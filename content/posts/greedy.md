@@ -4,7 +4,7 @@ categories = ["AI", "Reinforcement Learning", "Contextual Bandits"]
 date = "2020-03-02"
 +++
 
-In this post, I will explain and implement the epsilon-greedy algorithm, a simple algorithm that solves
+In this post, I will explain and implement Epsilon-Greedy, a simple algorithm that solves
 the contextual bandits problem. Despite its 
 simplicity, this algorithm performs
 considerably well [1]. 
