@@ -24,8 +24,8 @@ to know what it is, not necessarily how it works)
 
 ## Intro
 
-The intuition of the algorithm is to choose random actions sometimes. In the
-rest of the time, it chooses the action that it thinks is the best one, this
+The intuition of the algorithm is to choose random actions at sometimes. In the
+rest of the time, it chooses the action that it thinks is the best one. This
 simple balance between exploration (random actions) and exploitation (greediness) 
 yields good results.
 
@@ -41,7 +41,7 @@ We can see that the algorithm receives three arguments, a probability *p*, a dec
 rate *d* and the oracles $\hat{f}_{1: k}$. Let's explain each one of them.
 
 * *p*: Dictates what will be the probability of a random action in each round. 
-* *d*: This variable control how fast *p* decreases during training. 
+* *d*: This variable controls how fast *p* decreases during training. 
 * $\hat{f}_{1: k}$: Oracles that are classifiers or regressors. They learn the
   rewards that each action will return, given the context *x*.
 
@@ -64,14 +64,14 @@ The probability rate is decreased according to *d*.
 
 ![epsilon-greedy-line-7](/img/epsilon_greedy_line_7.png)
 
-The algorithm receives a reward $r_a^t$ and stores it together with the context
-observed $x^t$. Note that the data stored is exclusive to the performed
+The algorithm receives a reward $r_a^t$ and stores it together with the 
+observed context $x^t$. Note that the data stored is exclusive to the performed
 action/arm *a*.
 
 ![epsilon-greedy-line-8](/img/epsilon_greedy_line_8.png)
 
 Then, the oracles learn the reward of each (context, action) pair given the 
-data history. This training does not need to happen in every round, it is possible, for
+data history. This training does not need to happen in every round. It is possible, for
 example, to train the oracles every 50 rounds.
 
 ## Code
@@ -192,7 +192,7 @@ def greedy_action(self, context: np.ndarray) -> int:
 
 On the greedy action method, each classifier is evaluated based on the context.
 If the classifier has not yet been trained, the score is estimated by running a beta 
-distribution. This trick is done on [3]. After all of this, the action
+distribution. This trick is done on [3]. Afterwards, the action
 with the maximum estimated reward is chosen.
 
 ### Fit
@@ -263,7 +263,7 @@ description of each one:
 2. Binary context and stochastic rewards.
 3. Continuous context and stochastic rewards.
 
-And here are the results, using epsilon equal to  0.2, training the oracles every
+The results were obtained using epsilon equal to 0.2, training the oracles every
 50 rounds and averaging the results of 100 runs. This plot considers the mean
 reward of all history until each round.
 
