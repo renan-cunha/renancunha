@@ -25,7 +25,7 @@ a good property of early-stage research and experimentation. So now, let's try t
 problem. First, let's
 use binary everywhere. 
 Second, let's make the environment deterministic (an action *k* with context *x* 
-always returns the same reward *r*). Third and finally, let's make
+always returns the same reward *r*). Third and last, let's make
 the reward function *f(x, k*) as simple as possible. Remember that this reward
 function is calculated given the context observed and the action chosen.
 
@@ -49,7 +49,7 @@ and choose the $1^{st}$ action otherwise, easy.
 
 ## How to complicate
 
-Now, let's try to incrementally add complexity to this problem.
+Now, let's gradually try to add complexity to this problem.
 
 ### Stochastic rewards
 
@@ -62,15 +62,17 @@ for, let's add it to our environment.
 
 ```
 if context == 0
-    action 0 returns a reward of 1 with 50% chance, other 
+    action 0 returns a reward of 2 with 50% chance, other 
     actions give 0 rewards
 else
-    action 1 returns a reward of 1 with 50% chance, other 
+    action 1 returns a reward of 2 with 50% chance, other 
     actions give 0 rewards
 ```
 
-Here, the best policy it's still the same from the previous environment, but,
-intuitively, it should be harder for an algorithm to discover it. 
+Here, the best policy is still the same as in the previous environment, but
+now, it should be harder for an algorithm to discover it. In this
+example, the reward is 2 because of the stochasticity, so the expected reward
+of each context can still be 1.
 
 ### Continuous context
 
@@ -85,10 +87,10 @@ the context possibilities to infinity!
 
 ```
 if context > 0.5
-    action 0 gives a reward of 1 with 50% chance, other 
+    action 0 gives a reward of 2 with 50% chance, other 
     actions give 0 rewards
 else
-    action 1 gives a reward of 1 with 50% chance, other 
+    action 1 gives a reward of 2 with 50% chance, other 
     actions give 0 rewards
 ```
 
@@ -111,8 +113,9 @@ bandit algorithms on supervised-learning datasets. This can be done
 by representing the context and action by each (*X, y*) feature vector pair 
 of the dataset, both regression
 and classification datasets can be used. With this approach, the environment can randomly sample
-one instance of the dataset, and the reward is based on the $y^k$ raw value in case
-the of regression. With classification datasets, we can use accuracy as the reward.
+one instance of the dataset, and the reward is based on the $y^k$ raw value in 
+the case
+of regression. With classification datasets, we can use accuracy as the reward.
 
 ## Some possibilities for benchmarks
 
@@ -122,7 +125,7 @@ and deal with corner cases.
 * Standard multi-armed bandits scenario: the context doesn't influence the 
   reward function.
 * Imbalanced Dataset: There is an action (or subsect of actions) that are the
-  better most often.
+  better more often.
 * Type of reward function function instead of just ```context > 0.5```: 
     * linear function
     * non-linear function (neural network)
