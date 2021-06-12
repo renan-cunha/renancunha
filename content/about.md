@@ -45,7 +45,7 @@ It is a productive way to move from point A to point B while exercising and sunb
 I love my [***cat***](https://www.instagram.com/p/BzgqtUjAu2g) and playing with her, although she can leave some scars :( and
 I think animes and games are the ultimate art. 
 Blame them for so effectively combining [***stunning visuals***](https://en.wikipedia.org/wiki/Gurren_Lagann),
-[***impactful soundtracks***](https://en.wikipedia.org/wiki/Akame_ga_Kill!), and 
+[***immersive soundtracks***](https://en.wikipedia.org/wiki/Akame_ga_Kill!), and 
 [***heart-warming stories***](https://en.wikipedia.org/wiki/Celeste_(video_game)).
 
 ### Ways you can contact me and see my work:
