@@ -1,5 +1,6 @@
 +++
 title = "Archive"
+showthedate = false
 menu = "main"
 +++
 

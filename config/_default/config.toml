@@ -1,6 +1,5 @@
 baseurl = "https://renan-cunha.github.io/"
 title = "Renan Cunha"
-author = "You"
 copyright = "Your Copyright"
 canonifyurls = true
 paginate = 5
@@ -12,9 +11,7 @@ theme = "strange-case"
 [params]
 	colorScheme = "scheme-lightbrown"
 	DateFormat = "2 Jan 2006"
-	description = ""
-	sidebarDescription = ""
-	sidebarFreeText = "Computer Science student with interest in AI"
+    description = "AI, Data Science, and anything else."
 	piwikSiteID = ""
 	piwikURL = ""
 

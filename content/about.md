@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-date = ""
+showthedate = false
 menu = "main"
 +++
 
