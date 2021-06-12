@@ -41,7 +41,7 @@ Because of that, I find it easy to see meaning in the most mundane tasks,
 and I think it's a sin to live without [***giving it your all***](https://thestoicsage.com/how-to-succeed-in-everything-you-do-a-stoic-guide/).
 
 Besides all that, I like bicycles. 
-It is a productive way to move from point A to point B while exercising and sunbathing at the sametime. 
+It is an effective way to move from point A to point B while exercising and sunbathing at the sametime. 
 I love my [***cat***](https://www.instagram.com/p/BzgqtUjAu2g) and playing with her, although she can leave some scars :( and
 I think animes and games are the ultimate art. 
 Blame them for so effectively combining [***stunning visuals***](https://en.wikipedia.org/wiki/Gurren_Lagann),
