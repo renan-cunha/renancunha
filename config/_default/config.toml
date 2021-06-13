@@ -1,6 +1,7 @@
 baseurl = "https://renan-cunha.github.io/"
 title = "Renan Cunha"
-copyright = "Your Copyright"
+author = "Renan Cunha"
+copyright = "Creative Commons Attribution 4.0 International Public License"
 canonifyurls = true
 paginate = 5
 customCSS = ["/home/renan/git/renancunha/static/style.css"]

@@ -2,6 +2,8 @@
 title = "About Me"
 showthedate = false
 menu = "main"
+meta_image = "img/thinker.jpg"
+show_meta_image = true
 +++
 
 
@@ -34,7 +36,7 @@ The EA movement ties together empathy with rationality. The goal is to use evide
 to figure out which ways to do good are the most effective. 
 You'd be surprised that, through this lens, working on [***AI might be more effective at doing good than, say, trying to solve global warming***](https://80000hours.org/problem-profiles/).
 
-Having all these interests and cool things to do, I am grateful for the simple fact that I am alive. 
+Having all these interests and cool things to work with, I am grateful for the simple fact that I am alive. 
 It's fascinating to stop for a few minutes and realize that you're [***experiencing
 something***](https://www.youtube.com/watch?v=MBRqu0YOH14&vl), 
 that your senses are picking up information, and you're actually *perceiving* in the first person. 
@@ -42,7 +44,7 @@ Because of that, I find it easy to see meaning in the most mundane tasks,
 and I think it's a sin to live without [***giving it your all***](https://thestoicsage.com/how-to-succeed-in-everything-you-do-a-stoic-guide/).
 
 Besides all that, I like bicycles. 
-It is an effective way to move from point A to point B while exercising and sunbathing at the sametime. 
+It is an effective way to move from point A to point B while exercising and getting sunlight. 
 I love my [***cat***](https://www.instagram.com/p/BzgqtUjAu2g) and playing with her, although she can leave some scars :( and
 I think animes and games are the ultimate art. 
 Blame them for so effectively combining [***stunning visuals***](https://en.wikipedia.org/wiki/Gurren_Lagann),
