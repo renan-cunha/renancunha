@@ -4,13 +4,14 @@ showthedate = false
 menu = "main"
 +++
 
+
 Hi, I am Renan Cunha, a Computer Scientist from Pará, a state in northern Brazil. 
-I made this blog to learn and write more, two things I love to do. 
+I made this blog to learn and write more, two things I really enjoy doing. 
 Most of the stuff I write here is work-related, but sometimes I can end up on weird and unexpected topics.
 
 My main interests that intersect with my work (and between themselves) are AI and Data Science. 
-My interest in AI started because I became fascinated by the intelligent behavior performed by machines, 
-so I wanted to build software that had this kind of complexity. 
+My interest in AI started because I became fascinated by the intelligent behavior that was starting to be performed by
+machines, and that motivated me to build software that had this kind of complexity. 
 My interest in Data Science emerged due to the enormous curiosity I have for the world, 
 seeking to understand it and make justified decisions based on the available evidence.
 
@@ -19,7 +20,7 @@ Even though it is [***considered a field without much progress***](https://philp
 [***debatable***](https://philpapers.org/rec/HUEALR-2)), I find myself amused by many of the questions that philosophers ask:
 
 * *Does the metaphysical exist?*
-* *What is the right thing to do? (is there even such a thing as 'the right thing to do'?*
+* *What is the right thing to do? (is there even such a thing as "the right thing to do"?)*
 * [***How do we know if we can trust the evidence we see?***](https://philpapers.org/rec/HUESTA)
 * [***What makes you you?***](https://waitbutwhy.com/2014/12/what-makes-you-you.html)
 * [***How to live the best life possible?***](https://www.mrmoneymustache.com/2011/10/02/what-is-stoicism-and-how-can-it-turn-your-life-to-solid-gold/)
@@ -53,3 +54,5 @@ Blame them for so effectively combining [***stunning visuals***](https://en.wiki
 * [Github](https://github.com/renan-cunha)
 * [Linkedin](https://www.linkedin.com/in/renancunhaf)
 * E-mail: renancunhafonseca@gmail.com
+
+![the-thinker](/img/thinker.jpg)
