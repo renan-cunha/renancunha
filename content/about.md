@@ -47,7 +47,7 @@ Besides all that, I like bicycles.
 It is an effective way to move from point A to point B while exercising and getting sunlight. 
 I love my [***cat***](https://www.instagram.com/p/BzgqtUjAu2g) and playing with her, although she can leave some scars :( and
 I think animes and games are the ultimate art. 
-Blame them for so effectively combining [***stunning visuals***](https://en.wikipedia.org/wiki/Gurren_Lagann),
+Blame them for so beautifully combining [***stunning visuals***](https://en.wikipedia.org/wiki/Gurren_Lagann),
 [***immersive soundtracks***](https://en.wikipedia.org/wiki/Akame_ga_Kill!), and 
 [***heart-warming stories***](https://en.wikipedia.org/wiki/Celeste_(video_game)).
 
