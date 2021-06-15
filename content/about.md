@@ -17,7 +17,7 @@ machines, and that motivated me to build software that had this kind of complexi
 My interest in Data Science emerged due to the enormous curiosity I have for the world, 
 seeking to understand it and make justified decisions based on the available evidence.
 
-Outside of work, I am interested a lot in philosophy. 
+Outside of work, I am interested a lot in Philosophy. 
 Even though it is [***considered a field without much progress***](https://philpapers.org/rec/CHAWIT-15) (this is
 [***debatable***](https://philpapers.org/rec/HUEALR-2)), I find myself amused by many of the questions that philosophers ask:
 
@@ -57,4 +57,7 @@ Blame them for so effectively combining [***stunning visuals***](https://en.wiki
 * [Linkedin](https://www.linkedin.com/in/renancunhaf)
 * E-mail: renancunhafonseca@gmail.com
 
-![the-thinker](/img/thinker.jpg)
+![thinker](/img/thinker.jpg)
+<p align="center">
+ <img src="/img/thinker.jpg">
+</p>
